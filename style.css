@@ -1,0 +1,46 @@
+body {
+ background-color: lightblue
+}
+img {
+  border-radius: 40%;
+}
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+h2{ 
+    color: azure;
+    margin-left: 20px;
+}
+p {text-emphasis-color: dodgerblue;}
+button {
+  background-color: lightgreen; 
+  border: 2px solid green;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.header {
+  padding: 10px;
+  text-align: center;
+  background-color: paleturquoise;
+  color: azure;
+  font-size: 25px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: paleturquoise;
+  color: navy;
+  text-align: center;
+}
+p {
+  font-family: monospace;
+  font-size: 16px;
+}
